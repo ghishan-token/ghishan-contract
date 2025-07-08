@@ -10,6 +10,6 @@
 - **License:** MIT
 - **Contract Address:**   0xb12BCA103C9c7EE06DDAf6fB02F4f501f23732cF
   
-
+https://polygonscan.com/token/0xb12BCA103C9c7EE06DDAf6fB02F4f501f23732cF
 
 The contract is fully verified and optimized for compatibility with blockchain explorers and third-party tools.
