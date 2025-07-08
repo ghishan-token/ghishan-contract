@@ -8,6 +8,8 @@
 - **Total Supply:** 120,000,000 GS
 - **Standard:** ERC20
 - **License:** MIT
-- **Contract Address:** [0xYourContractAddressHere](https://polygonscan.com/address/0xYourContractAddressHere)
+- **Contract Address:**   0xb12BCA103C9c7EE06DDAf6fB02F4f501f23732cF
+  
+
 
 The contract is fully verified and optimized for compatibility with blockchain explorers and third-party tools.
